@@ -1,4 +1,8 @@
 /* body {} */
+
+/* 
+ログインフォーム
+*/
 form {
     margin: 20px 15px;
 }
@@ -17,7 +21,7 @@ form {
 .form-button {
     margin: 15px 0;
 }
-.button {}
+/* .button {} */
 .link-text {
     margin: 2px;
     color: slategrey;
@@ -28,6 +32,9 @@ form {
     text-decoration: none;
 }
 
+/* 
+グリッドレイアウト
+*/
 .grid {
     display: flex;
 }
