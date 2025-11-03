@@ -1,4 +1,33 @@
 /* body {} */
+form {
+    margin: 20px 15px;
+}
+.form-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+.form-list {
+    margin: 2px;
+}
+.form-title {}
+/* .form-field {} */
+.input-field {
+    width: 200px;
+}
+.form-button {
+    margin: 15px 0;
+}
+.button {}
+.link-text {
+    margin: 2px;
+    color: slategrey;
+}
+.form-link {
+    margin: 5px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
 .grid {
     display: flex;
 }
